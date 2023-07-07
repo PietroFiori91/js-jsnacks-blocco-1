@@ -8,7 +8,7 @@ for (let i = 0; i < numeri.length; i += 2) {
 console.log("____");
 console.log(somma);
 
-// const somma = numeri.length.value;
+// const somma = numeri[i].value;
 // console.log(somma);
 // BRUTTO TENTATIVO
 
@@ -16,4 +16,16 @@ console.log(somma);
 
 // for (let i = o; i < 30; i++) {
 //   const numero = Math.floor(Math.random() * 100) + 1;
+// }
+
+// ________
+// esercizio in classe ESPONENTI
+
+// let numero = 2;
+// let esponente = 2;
+
+// while (numero <= 1000) {
+//   numero = esponente;
+
+//   console.log(numero);
 // }
