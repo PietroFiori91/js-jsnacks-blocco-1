@@ -4,8 +4,9 @@ let somma = 0;
 for (let i = 0; i < numeri.length; i += 2) {
   console.log(numeri[i]);
   somma += numeri[i];
-  console.log(somma);
 }
+console.log("____");
+console.log(somma);
 
 // const somma = numeri.length.value;
 // console.log(somma);
